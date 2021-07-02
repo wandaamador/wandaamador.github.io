@@ -1,0 +1,294 @@
+@charset "utf-8";
+/* CSS Document */
+
+#todo {
+    background-color: #FDF6DA;
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+#imagen {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    width: 105%;
+    margin-top: 1%;
+    margin-right: 7%;
+    margin-bottom: -1%;
+    margin-left: 0%;
+}
+#parf1 {
+    background-color: #C9D5FF;
+    padding-top: 9px;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-bottom: 9px;
+    width: 93%;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    font-size: large;
+}
+#frase {
+    background-color: #FFD4A0;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 70%;
+    margin-right: -11%;
+    margin-left: 27.5%;
+    height: 20%;
+    font-size: large;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    font-style: italic;
+    margin-top: 5%;
+}
+#titulo2 {
+    padding: 10px;
+    width: 28%;
+    margin-top: 4%;
+    margin-right: 20%;
+    margin-bottom: -1%;
+    margin-left: 39%;
+    color: #242470;
+}
+#estiloimagen1 {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    width: 396px;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+    margin-left: 0%;
+    position: absolute;
+    left: -59px;
+    top: 1575px;
+    height: 220px;
+}
+#estilo1 {
+    position: absolute;
+    left: 825px;
+    top: 1630px;
+    width: 341px;
+    height: 141px;
+}
+#estiloimagen2 {
+    width: 30%;
+    position: absolute;
+    left: 613px;
+    top: 1800px;
+}
+#estilo2 {
+    width: 375px;
+    position: absolute;
+    left: 214px;
+    top: 1802px;
+}
+#estilosfotog {
+    background-image: url(../images/fondo.png);
+    padding: 10px;
+    height: 2019px;
+    width: 96%;
+    margin-top: 0%;
+    margin-right: 2px;
+    margin-bottom: -34%;
+    margin-left: 1%;
+}
+#estiloimagen2 {
+    width: 30%;
+    position: absolute;
+}
+#estiloimagen3 {
+    width: 30%;
+    position: absolute;
+    left: 222px;
+    top: 2157px;
+}
+#estilo3 {
+    position: absolute;
+    width: 30%;
+    left: 615px;
+    top: 2159px;
+}
+#estiloimagen4 {
+    width: 30%;
+    position: absolute;
+    left: 599px;
+    top: 2570px;
+}
+#estilo4 {
+    width: 30%;
+    position: absolute;
+    left: 224px;
+    top: 2569px;
+}
+#estilo5 {
+    position: absolute;
+    width: 368px;
+    left: 601px;
+    top: 2833px;
+}
+#estilo6 {
+    position: absolute;
+    width: 30%;
+    left: 221px;
+    top: 3250px;
+    height: 178px;
+}
+#estiloimagen5 {
+    width: 30%;
+    position: absolute;
+    left: 218px;
+    top: 2831px;
+}
+#estiloimagen6 {
+    position: absolute;
+    width: 30%;
+    left: 600px;
+    top: 3254px;
+}
+#titulo3 {
+    padding-top: 7px;
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-bottom: 7px;
+    width: 31%;
+    margin-top: 37%;
+    margin-right: 2%;
+    margin-bottom: -4px;
+    margin-left: 38%;
+    color: #242470;
+}
+#tiposdefotog {
+    background-image: url(../images/fondo7.png);
+    padding-top: 11px;
+    padding-right: 11px;
+    padding-left: 11px;
+    padding-bottom: 11px;
+    width: 96%;
+    margin-top: 4px;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+}
+#titulo4 {
+    padding: 10px;
+    width: 27%;
+    margin-top: 5%;
+    margin-right: 20%;
+    margin-bottom: -3%;
+    margin-left: 37%;
+    color: #242470;
+}
+#descriptitulo4 {
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    width: 97.5%;
+    margin-top: -6px;
+    margin-right: -28%;
+    margin-bottom: -3%;
+    margin-left: 0.5%;
+    text-align: justify;
+}
+#partescamara {
+    background-image: url(../images/fondo7.png);
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 96%;
+    margin-top: 3%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    margin-left: 1%;
+}
+#titulo5 {
+    padding: 10px;
+    width: 25%;
+    margin-top: 1%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    margin-left: 38%;
+    left: 20%;
+    right: 20%;
+    color: #242470;
+}
+#tiposcamera {
+    padding: 10px;
+    width: 97%;
+    margin-top: 1%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+    background-image: url(../images/fondo7.png);
+}
+#conclus {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    width: 39%;
+    margin-top: 4%;
+    margin-right: -3%;
+    margin-bottom: 0%;
+    margin-left: 30%;
+    color: #242470;
+    text-shadow: 0 0 #000000;
+}
+#textofinal {
+    padding: 10px;
+    width: 94%;
+    margin-top: 1%;
+    margin-right: 3%;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    font-size: large;
+    text-align: center;
+    text-shadow: 0px 0px #FFFFFF;
+    color: #464646;
+    background-color: #FFE4C7;
+}
+#parf1 p img {
+    float: right;
+    margin-left: 17px;
+}
+#inicio {
+    padding: 5px;
+    width: 70%;
+    margin-right: 4%;
+    margin-bottom: -1%;
+    position: fixed;
+    background-color: #FFA54D;
+    margin-left: -9px;
+    margin-top: 1%;
+}
+#estilosfotog h2 img {
+    margin-left: 32px;
+    float: right;
+}
+#estilosimg3 {
+    float: left;
+
+}
+#estilosimg4 {
+    float: left;
+}
+#quiensomos {
+    padding: 10px;
+    width: 98%;
+    margin-top: 11%;
+    margin-right: -3%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+}
